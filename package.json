@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react": "18.2.0",
+    "recharts": ">=0.0.1",
+    "react-dom": "18.2.0",
+    "react-is": ">=0.0.1"
+  }
+}
